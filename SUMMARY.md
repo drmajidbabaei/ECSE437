@@ -29,18 +29,18 @@
 
 ## Presentations
 
-* [Overview](presentations/overview.md)
-* [🚁 Version Control Systems](presentations/requesting-time-off/README.md)
+* [👋 Overview](presentations/overview.md)
+* [🐭 Version Control Systems](presentations/requesting-time-off/README.md)
   * [Topic#1](presentations/requesting-time-off/topic-1.md)
   * [Topic#2](presentations/requesting-time-off/topic-2.md)
-* [🚁 Code Review](presentations/requesting-time-off-1/README.md)
+* [🐯 Code Review](presentations/requesting-time-off-1/README.md)
   * [Topic#3](presentations/requesting-time-off-1/topic-3.md)
   * [Topic#4](presentations/requesting-time-off-1/topic-4.md)
-* [🚁 Containerization](presentations/requesting-time-off-2/README.md)
+* [🐨 Containerization](presentations/requesting-time-off-2/README.md)
   * [Topic#5](presentations/requesting-time-off-2/topic-5.md)
   * [Topic#6](presentations/requesting-time-off-2/topic-6.md)
   * [Topic#7](presentations/requesting-time-off-2/topic-7.md)
-* [🚁 Pipeline](presentations/requesting-time-off-3/README.md)
+* [🐦 Pipeline](presentations/requesting-time-off-3/README.md)
   * [Topic#8](presentations/requesting-time-off-3/topic-8.md)
   * [Topic#9](presentations/requesting-time-off-3/topic-9.md)
   * [Topic#10](presentations/requesting-time-off-3/topic-10.md)
