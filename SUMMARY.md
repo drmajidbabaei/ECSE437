@@ -65,4 +65,4 @@
 
 ## Policies
 
-* [🌴 Requesting Time Off](policies/requesting-time-off.md)
+* [⚠ Plagiarism and Cheating](policies/requesting-time-off.md)
