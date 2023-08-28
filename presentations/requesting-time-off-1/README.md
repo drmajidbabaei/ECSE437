@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# 🚁 Code Review
+# 🐯 Code Review
 
 {% hint style="info" %}
 Here you can find presentations on Version Control Systems given by students

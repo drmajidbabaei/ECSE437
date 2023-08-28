@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# 🚁 Version Control Systems
+# 🐭 Version Control Systems
 
 {% hint style="info" %}
 Here you can find presentations on Version Control Systems given by students

@@ -30,7 +30,7 @@ Before jumping to the more serious stuff about the course let me bring your atte
 
 <summary>How to use it?</summary>
 
-This space is designed to be read linearly, so start with our Vision, Mission & Focus and work down from there! We recommend reading everything through in one sitting and then revisiting and re-reading if you need to.
+This space is designed to be read linearly, so start with the Team Section and work down from there! Some sections such as **Lecture Notes** are still in progress and will not be used as resources in any exams.
 
 </details>
 
@@ -38,6 +38,7 @@ This space is designed to be read linearly, so start with our Vision, Mission & 
 
 <summary>Contributing</summary>
 
-If you want to contribute changes, start a new change request and submit it for review. The People team will review it soon after.
+If you want to contribute changes, start a new change request and submit it for review. We use the [fork and pull](https://help.github.com/articles/using-pull-requests/#fork--pull) model to manage changes. More information about [forking a repository](https://help.github.com/articles/fork-a-repo/) and [making a Pull Request](https://help.github.com/articles/using-pull-requests/).\
+_**If your pull request is accepted you will be awarded with 1 to 5 bunes points!** (typos are not included!)_
 
 </details>
