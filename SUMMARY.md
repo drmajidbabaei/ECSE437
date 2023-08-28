@@ -49,7 +49,7 @@
 
 * [🎙 Introduction](draft-lecture-notes/requesting-time-off/README.md)
   * [Course overview](draft-lecture-notes/requesting-time-off/course-overview.md)
-  * [Who am I?](draft-lecture-notes/requesting-time-off/who-am-i.md)
+  * [who am I](draft-lecture-notes/requesting-time-off/who-am-i.md)
   * [Range matters!](draft-lecture-notes/requesting-time-off/range-matters/README.md)
     * [Abstraction](draft-lecture-notes/requesting-time-off/range-matters/abstraction.md)
     * [Analogy](draft-lecture-notes/requesting-time-off/range-matters/analogy.md)
