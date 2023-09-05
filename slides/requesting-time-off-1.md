@@ -6,6 +6,8 @@ description: What You Need to Know!
 
 {% hint style="info" %}
 The recording can be found [here](https://mcgill-my.sharepoint.com/:v:/g/personal/majid\_babaei\_mcgill\_ca/EfUnOEsY4xZNsI9A92oUffkB9MluHdgQ92hVtR5ai7GQxg?e=SkEpeZ)!
+
+(_only available for students at McGill University, others can get access upon my premission_)
 {% endhint %}
 
 {% file src="../.gitbook/assets/Lecture2-Planning (1).pdf" %}
