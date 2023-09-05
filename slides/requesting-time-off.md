@@ -4,8 +4,8 @@ description: What You Need to Know!
 
 # 🙏 Lecture#1: Intorduction
 
-{% hint style="info" %}
-
+{% hint style="danger" %}
+There is no recording for this lecture!
 {% endhint %}
 
 {% file src="../.gitbook/assets/Lecture1-Introduction.pdf" %}
