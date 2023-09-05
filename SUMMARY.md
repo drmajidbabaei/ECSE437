@@ -43,6 +43,10 @@
   * [Topic#9](presentations/requesting-time-off-3/topic-9.md)
   * [Topic#10 \[Taken\]](presentations/requesting-time-off-3/topic-10.md)
 
+## Slides
+
+* [🙏 Lecture#1: Intorduction](slides/requesting-time-off.md)
+
 ## \[draft] Lecture Notes
 
 * [🎙 Introduction](draft-lecture-notes/requesting-time-off/README.md)
