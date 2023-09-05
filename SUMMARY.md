@@ -1,6 +1,7 @@
 # Table of contents
 
 * [👋 Welcome to ECSE 437!](README.md)
+* [📰 News](values.md)
 
 ## About us
 
