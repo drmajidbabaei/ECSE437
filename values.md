@@ -1,5 +1,5 @@
 ---
-description: It informs you on the most updated changes or news about the course!
+description: It informs you on most updated changes or news about the course!
 ---
 
 # 📰 News
