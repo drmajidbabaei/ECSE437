@@ -24,6 +24,10 @@ layout:
 **About this page:** This page is designed as supplementary material to ECSE 437: Software Delivery offered by McGill University in Fall 2023. Get access to the official content in myCources at [ECSE-437-001](https://mycourses2.mcgill.ca/d2l/home/659807).
 {% endhint %}
 
+{% hint style="success" %}
+To keep you updated about the most recent changes in this course,  a [news](values.md) section has just been added!&#x20;
+{% endhint %}
+
 Before jumping to the more serious stuff about the course let me bring your attention to some important points:
 
 <details>
