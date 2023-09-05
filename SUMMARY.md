@@ -46,6 +46,7 @@
 ## Slides
 
 * [🙏 Lecture#1: Intorduction](slides/requesting-time-off.md)
+* [🙏 Lecture#2: Planning](slides/requesting-time-off-1.md)
 
 ## \[draft] Lecture Notes
 
