@@ -40,7 +40,7 @@
 * [🐦 Pipeline](presentations/requesting-time-off-3/README.md)
   * [Topic#8](presentations/requesting-time-off-3/topic-8.md)
   * [Topic#9](presentations/requesting-time-off-3/topic-9.md)
-  * [Topic#10 \[Taken\]](presentations/requesting-time-off-3/topic-10-taken.md)
+  * [Topic#10 \[Taken\]](presentations/requesting-time-off-3/topic-10.md)
 
 ## \[draft] Lecture Notes
 
