@@ -30,7 +30,7 @@ Your _physical_ presence in the lab sessions is not mandatory! But labs cannot b
 
 [Topic#2](presentations/requesting-time-off/topic-2-taken.md) is taken by Felicia Sun! Visualization Support is a crucial technique that has been used widely in many domains. I am sure that you will enjoy this presentation so stay tuned for more information!
 
-
+***
 
 ### Topic 3 is taken!
 
