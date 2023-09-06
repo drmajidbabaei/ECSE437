@@ -25,7 +25,7 @@ layout:
 {% endhint %}
 
 {% hint style="success" %}
-To keep you updated about the most recent changes in this course,  a [news](values.md) section has just been added!&#x20;
+To keep you updated about the most recent changes in this course,  a [news](news.md) section has just been added!&#x20;
 {% endhint %}
 
 Before jumping to the more serious stuff about the course let me bring your attention to some important points:

@@ -1,7 +1,3 @@
----
-description: It informs you on most updated changes or news about the course!
----
-
 # 📰 News
 
 <details>
