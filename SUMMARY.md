@@ -29,7 +29,7 @@
 
 * [👋 Overview](presentations/overview.md)
 * [🐭 Version Control Systems](presentations/requesting-time-off/README.md)
-  * [Topic#1](presentations/requesting-time-off/topic-1.md)
+  * [Topic#1 \[Taken\]](presentations/requesting-time-off/topic-1-taken.md)
   * [Topic#2 \[Taken\]](presentations/requesting-time-off/topic-2-taken.md)
 * [🐯 Code Review](presentations/requesting-time-off-1/README.md)
   * [Topic#3 \[Taken\]](presentations/requesting-time-off-1/topic-3.md)

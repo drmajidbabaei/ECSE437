@@ -52,7 +52,7 @@ Your _physical_ presence in the lab sessions is not mandatory! But labs cannot b
 
 ### Topic 1 is taken!
 
-Topic#1 is taken by Soumaia Bouhouia! Mining git repositories is a topic that has recently attracted great attention and several amazing papers have been published on this topic. In this presentation, we will learn the promises and perils of mining git.&#x20;
+[Topic#1](presentations/requesting-time-off/topic-1-taken.md) is taken by Soumaia Bouhouia! Mining git repositories is a topic that has recently attracted great attention and several amazing papers have been published on this topic. In this presentation, we will learn the promises and perils of mining git.&#x20;
 
 ***
 
