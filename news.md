@@ -38,6 +38,12 @@ Your _physical_ presence in the lab sessions is not mandatory! But labs cannot b
 
 ***
 
+### Topic 9 is taken!
+
+[Topic#9](presentations/requesting-time-off-3/topic-9.md) is taken by Biruk berhanu Retta! what is more important than testing is software engineering and creating bug-free software especially if it is powered by AI!
+
+***
+
 </details>
 
 <details>
