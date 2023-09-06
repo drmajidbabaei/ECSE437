@@ -32,7 +32,7 @@
   * [Topic#1](presentations/requesting-time-off/topic-1.md)
   * [Topic#2 \[Taken\]](presentations/requesting-time-off/topic-2-taken.md)
 * [🐯 Code Review](presentations/requesting-time-off-1/README.md)
-  * [Topic#3](presentations/requesting-time-off-1/topic-3.md)
+  * [Topic#3 \[Taken\]](presentations/requesting-time-off-1/topic-3-taken.md)
   * [Topic#4](presentations/requesting-time-off-1/topic-4.md)
 * [🐨 Containerization](presentations/requesting-time-off-2/README.md)
   * [Topic#5](presentations/requesting-time-off-2/topic-5.md)
