@@ -44,6 +44,12 @@ Your _physical_ presence in the lab sessions is not mandatory! But labs cannot b
 
 ***
 
+### Topic 4 is taken!
+
+[Topic#4](presentations/requesting-time-off-1/topic-4-taken.md) is taken by Alexa Vasilakos! yet another topic on code review that shows us some hidden challenges in this part of software development.&#x20;
+
+***
+
 </details>
 
 <details>
