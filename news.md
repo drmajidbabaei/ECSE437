@@ -62,9 +62,9 @@ Your _physical_ presence in the lab sessions is not mandatory! But labs cannot b
 
 ***
 
-### Topic 8 is taken!
+### Topic 5 is taken!
 
-[Topic#8](presentations/requesting-time-off-3/topic-8.md) is taken by Sandy Nguyen, Minna Feng, and Béatrice Duval!
+[Topic#5](presentations/requesting-time-off-2/topic-5.md) is taken by Sandy Nguyen, Minna Feng, and Béatrice Duval!
 
 ***
 
