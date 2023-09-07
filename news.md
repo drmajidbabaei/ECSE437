@@ -74,6 +74,12 @@ Your _physical_ presence in the lab sessions is not mandatory! But labs cannot b
 
 ***
 
+### Topic 8 is taken!
+
+[Topic#8](presentations/requesting-time-off-3/topic-8-taken.md) is taken by Ningning Yang!
+
+***
+
 </details>
 
 <details>

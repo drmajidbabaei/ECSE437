@@ -39,7 +39,7 @@
   * [Topic#6 \[Taken\]](presentations/requesting-time-off-2/topic-6-taken.md)
   * [Topic#7 \[Taken\]](presentations/requesting-time-off-2/topic-7.md)
 * [🐦 Pipeline](presentations/requesting-time-off-3/README.md)
-  * [Topic#8](presentations/requesting-time-off-3/topic-8.md)
+  * [Topic#8 \[Taken\]](presentations/requesting-time-off-3/topic-8-taken.md)
   * [Topic#9 \[Taken\]](presentations/requesting-time-off-3/topic-9.md)
   * [Topic#10 \[Taken\]](presentations/requesting-time-off-3/topic-10.md)
 
