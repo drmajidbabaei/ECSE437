@@ -58,13 +58,13 @@ Your _physical_ presence in the lab sessions is not mandatory! But labs cannot b
 
 ### Topic 7 is taken!
 
-[Topic#7](presentations/requesting-time-off-2/topic-7-taken.md) is taken by Marie Nashed!&#x20;
+[Topic#7](presentations/requesting-time-off-2/topic-7.md) is taken by Marie Nashed!&#x20;
 
-
+***
 
 ### Topic 8 is taken!
 
-[Topic#8](presentations/requesting-time-off-3/topic-8-taken.md) is taken by Sandy Nguyen, Minna Feng, and Béatrice Duval!
+[Topic#8](presentations/requesting-time-off-3/topic-8.md) is taken by Sandy Nguyen, Minna Feng, and Béatrice Duval!
 
 ***
 

@@ -37,9 +37,9 @@
 * [🐨 Containerization](presentations/requesting-time-off-2/README.md)
   * [Topic#5](presentations/requesting-time-off-2/topic-5.md)
   * [Topic#6](presentations/requesting-time-off-2/topic-6.md)
-  * [Topic#7 \[Taken\]](presentations/requesting-time-off-2/topic-7-taken.md)
+  * [Topic#7 \[Taken\]](presentations/requesting-time-off-2/topic-7.md)
 * [🐦 Pipeline](presentations/requesting-time-off-3/README.md)
-  * [Topic#8 \[Taken\]](presentations/requesting-time-off-3/topic-8-taken.md)
+  * [Topic#8 \[Taken\]](presentations/requesting-time-off-3/topic-8.md)
   * [Topic#9 \[Taken\]](presentations/requesting-time-off-3/topic-9.md)
   * [Topic#10 \[Taken\]](presentations/requesting-time-off-3/topic-10.md)
 
