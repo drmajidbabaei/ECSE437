@@ -27,7 +27,7 @@ First, we need to pull the official base image. Since we use the node module, we
 
 &#x20;
 
-<figure><img src="../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The node version in my machine is 18.14.2.
 
@@ -35,13 +35,13 @@ To find out what base image is compatible with this version login to your accoun
 
 Then search for “node” and inside the sort by box type the version of your node module plus the name of the (minimal) OS, in this case, it is going to be: `18.14-apline`
 
-<figure><img src="../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 What we need from this page is the complete name (tag name) of this image to refer to it in our `dockerfile: 18.14-alpine3.17`
 
 Okay add this line to the dockerfile and then run the following command in the command prompt:
 
-<figure><img src="../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
@@ -53,13 +53,13 @@ docker build -t portfolio-app .
 
 If everything goes well you should be able to see this image in our docker desktop app:
 
-<figure><img src="../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
 As you have seen in t the lecture you can interact with this image using the shell:
 
-<figure><img src="../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
@@ -71,7 +71,7 @@ Now that we have the base image, the next step is to copy the application files 
 
 &#x20;
 
-<figure><img src="../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
@@ -81,7 +81,7 @@ If the process is still ongoing, just stop it (_ctrl + c_) we don’t want a lar
 
 Let’s add the ._dockerignore_ file beside our _dockerfile_ and add node\_modules to it.
 
-<figure><img src="../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 It is better now! Everything is done in less than 3 seconds!
 
@@ -89,7 +89,7 @@ It is better now! Everything is done in less than 3 seconds!
 
 Verify the results again by running the image:
 
-<figure><img src="../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (26) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Next, we install the dependencies on the image every time it is started and expose the port we would like to use to communicate with the image.
 
@@ -106,11 +106,11 @@ EXPOSE 8000
 
 If you do that you will run into an error like this:
 
-<figure><img src="../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (27) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 To understand what is going wrong on your image when you run npm install you should comment out these two lines and rebuild your image and then go to that and manually run the command:
 
-<figure><img src="../.gitbook/assets/image (28) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (28) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You will need more options here!
 
@@ -120,7 +120,7 @@ Let’s go back to the dockerfile and fix the issue. If you open the README file
 RUN npm install --save react-tinder-card --legacy-peer-deps
 ```
 
-<figure><img src="../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (29) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
@@ -130,13 +130,13 @@ Yes! It takes more time now. We will get back to this issue later!
 
 We can verify that the _node\_modules_ directory is generated in the image:
 
-<figure><img src="../.gitbook/assets/image (30) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (30) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Since we would like to start the app once the container starts running, we need to add this command to the dockerfile: `CMD [“npm”, “run”, “start”]`
 
 &#x20;
 
-<figure><img src="../.gitbook/assets/image (31) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (31) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
@@ -152,7 +152,7 @@ docker run -d -p 80:8000 portfolio-app
 
 But when you try to see the portfolio from the host you will see the page like this:
 
-<figure><img src="../.gitbook/assets/image (32) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (32) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
@@ -177,7 +177,7 @@ docker build -t portfolio-app .
 
 &#x20;
 
-<figure><img src="../.gitbook/assets/image (33) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (33) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
@@ -189,7 +189,7 @@ docker run -d -p 80:8000 portfolio-app
 
 &#x20;
 
-<figure><img src="../.gitbook/assets/image (34) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (34) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
@@ -203,7 +203,7 @@ Everything works fine!
 
 First go to this address: [https://portal.azure.com/#home](https://portal.azure.com/#home)
 
-<figure><img src="../.gitbook/assets/image (35) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (35) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
@@ -211,37 +211,37 @@ Then use the plus sign to create a resource and search for Azure Container Regis
 
 &#x20;
 
-<figure><img src="../.gitbook/assets/image (36) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (36) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
 Pick a name for the registry name, in this case, I use the registry name: `teamportfolio`
 
-<figure><img src="../.gitbook/assets/image (37) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (37) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
 Use the default values for the rest and create the container registry.
 
-<figure><img src="../.gitbook/assets/image (38) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (38) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
 Then click on “go to resource” and then use “Access Keys” to log in to the registry:
 
-<figure><img src="../.gitbook/assets/image (39) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (39) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 To log into the registry, you can use the script below:
 
 &#x20;
 
-<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (40) (1).png" alt=""><figcaption></figcaption></figure>
 
 Then get the list of all images and create an alias for the image with the proper name as below:
 
 &#x20;
 
-<figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (41) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -251,19 +251,19 @@ To deploy our app, we need to create a Web App using the production dockerfile.
 
 First go to this address: [https://portal.azure.com/#home](https://portal.azure.com/#home)
 
-<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (42) (1).png" alt=""><figcaption></figcaption></figure>
 
 Then use the plus sign to create a resource and search for: Web App
 
-<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (43) (1).png" alt=""><figcaption></figcaption></figure>
 
 Use the option “Web App for Containers” and create one.
 
-<figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (46) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
-<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (47) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -277,7 +277,7 @@ If you log into your portal, you can check the log files:
 
 &#x20;
 
-<figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (48) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
