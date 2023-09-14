@@ -14,6 +14,26 @@ There are no sections in the lab sessions! you can join either session or both s
 
 Your _physical_ presence in the lab sessions is not mandatory! But labs cannot be done individually! it would be best if you worked in a team.
 
+***
+
+### Fuel for your discussion during the tutorial sessions \[How to write my Learning Journal?]
+
+Dear Students,
+
+If you have never written a Learning Journal in your other courses, it might seem a bit tricky! but actually, it is not! It is a practice to help you build your critical thinking which is essential in your future steps.&#x20;
+
+In the template I have provided for you, there are a few sections:&#x20;
+
+\[Questions] As you are making progress in the lab you might face a few questions. For example:  _How many tasks should be assigned to a person in a sprint? Is there any optimal value or it depends on the nature of the tasks? Are there any relevant studies on the Internet to determine this value? How is this managed by large companies?_
+
+You can either try to answer these questions on your own (based on your previous experiences) or you might want to do some research on the Internet. If you have found any reasonable answer to the questions you have faced you can add them with your explanation into the proper part of the learning journal which is \[Description of our approach].&#x20;
+
+I understand some questions are not easy to answer and require a lot of technical expertise. But it is not always the case! there are some easy solutions even for seemingly difficult problems! If the solutions that you have found for your questions sound interesting to you, you can try them in your project and see what are the results. For example, for this question: _You have a large task that needs to be completed in a sprint. How this task can be broken down into smaller pieces? ,_ you might want to explore and try different options in your project and discuss it with people on your team. Then you can add your contributions int the \[our contribution] part of the learning journal.
+
+In future labs, we will have different concerns but you should take the same steps to complete your learning journals!
+
+
+
 </details>
 
 <details>
