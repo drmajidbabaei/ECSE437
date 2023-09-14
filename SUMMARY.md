@@ -49,6 +49,7 @@
 * [🙏 Lecture#2: Planning](slides/requesting-time-off-1.md)
 * [🙏 Lecture#3: Git basic concepts 1](slides/requesting-time-off-2.md)
 * [🙏 Lecture#4: Git basic concepts 2](slides/requesting-time-off-3.md)
+* [🙏 Lecture#5: Git basic concepts 3](slides/requesting-time-off-4.md)
 
 ## \[draft] Lecture Notes
 
