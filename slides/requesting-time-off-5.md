@@ -5,7 +5,7 @@ description: What You Need to Know!
 # 🙏 Lecture#6: Git basic concepts 4
 
 {% hint style="info" %}
-The recording can be found here!
+The recording can be found [here](https://mcgill-my.sharepoint.com/:v:/g/personal/majid\_babaei\_mcgill\_ca/EeQczSuo6Z9Ho01S1GTG\_okBAvi9qTrpmDM0OmSVTYi9lA?e=3uRPe5)!
 
 (_only available for students at McGill University, others can get access upon my premission_)
 {% endhint %}
