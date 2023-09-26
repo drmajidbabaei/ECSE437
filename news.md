@@ -100,6 +100,12 @@ In future labs, we will have different concerns but you should take the same ste
 
 ***
 
+### Summary of Topic 2 added
+
+Felicia Sun successfully created a PR and after getting the approval the summary of the paper was included in [Topic#2](presentations/requesting-time-off/topic-2-taken.md).
+
+***
+
 </details>
 
 <details>
