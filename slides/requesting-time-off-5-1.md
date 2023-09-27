@@ -2,7 +2,7 @@
 description: What You Need to Know!
 ---
 
-# 🙏 Lecture#: Code Review 1
+# 🙏 Lecture#7: CR 1
 
 {% hint style="info" %}
 The recording can be found [here](https://mcgill-my.sharepoint.com/:v:/g/personal/majid\_babaei\_mcgill\_ca/EVM-JCQex-9DuTQBKlXyzs0BDK\_U8QPq4my93Di8\_XW5cA?e=NHB1by)!
