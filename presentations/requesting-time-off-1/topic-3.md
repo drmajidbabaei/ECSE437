@@ -19,3 +19,5 @@ Topic 3: [Modern code review: a case study at Google](https://dl.acm.org/doi/abs
 {% hint style="warning" %}
 This topic is taken by **Zach Hayden**
 {% endhint %}
+
+[ecse437_topic3_Zachary_Hayden.pdf](https://github.com/zachary0249/ECSE437/files/12819414/ecse437_topic3_Zachary_Hayden.pdf)
