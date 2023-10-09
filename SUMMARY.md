@@ -52,6 +52,7 @@
 * [🙏 Lecture#5: Git 3](slides/requesting-time-off-4.md)
 * [🙏 Lecture#6: Git 4](slides/requesting-time-off-5.md)
 * [🙏 Lecture#7: CR 1](slides/requesting-time-off-5-1.md)
+* [🙏 Lecture#8: CR 2](slides/requesting-time-off-5-1-1.md)
 
 ## \[draft] Lecture Notes
 
