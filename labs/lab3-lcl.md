@@ -83,7 +83,7 @@ That means you need to run your container in interactive mode to be able to work
 * Run the powershell
 * Use: `docker ps` to see the running processes or containers
 * Use: `docker ps -a` to see the stopped containers as well
-* Finally, use: `docker -it ubuntu` to run the container in an interactive mode
+* Finally, use: `docker run -it ubuntu` to run the container in an interactive mode
 
 <figure><img src="../.gitbook/assets/image (53) (1).png" alt=""><figcaption></figcaption></figure>
 
