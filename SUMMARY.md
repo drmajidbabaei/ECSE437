@@ -45,8 +45,8 @@
 
 ## Slides
 
-* [🙏 Lecture#1: Intorduction](slides/requesting-time-off.md)
-* [🙏 Lecture#2: Planning](slides/requesting-time-off-1.md)
+* [🙏 Lecture#1: INT](slides/requesting-time-off.md)
+* [🙏 Lecture#2: PLN](slides/requesting-time-off-1.md)
 * [🙏 Lecture#3: Git 1](slides/requesting-time-off-2.md)
 * [🙏 Lecture#4: Git 2](slides/requesting-time-off-3.md)
 * [🙏 Lecture#5: Git 3](slides/requesting-time-off-4.md)
