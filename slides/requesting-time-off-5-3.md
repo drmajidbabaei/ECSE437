@@ -5,7 +5,7 @@ description: What You Need to Know!
 # 🙏 Lecture#10: DOK 1
 
 {% hint style="info" %}
-The recording can be found here!
+The recording can be found [here](https://mcgill-my.sharepoint.com/:v:/g/personal/majid\_babaei\_mcgill\_ca/Ec-gsDZntMNGpRnl7IdkrtMBYF4P5hivVog0qIg8sGukeQ?e=0suNnq)!
 
 (_only available for students at McGill University, others can get access upon my premission_)
 {% endhint %}
