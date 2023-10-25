@@ -5,12 +5,12 @@ description: What You Need to Know!
 # 🙏 Lecture#12: DOK 3
 
 {% hint style="info" %}
-The recording can be found here!
+The recording can be found [here](https://mcgill-my.sharepoint.com/:v:/g/personal/majid\_babaei\_mcgill\_ca/EYpcpME90xhOqZXzqlu5HLwBTijmvLaHL6DBgHe4lhFT\_g?e=qUeE34)!
 
 (_only available for students at McGill University, others can get access upon my premission_)
 {% endhint %}
 
-
+{% file src="../.gitbook/assets/Lecture12-Containerization3 (1).pdf" %}
 
 ![](<../.gitbook/assets/image (470).png>)
 
