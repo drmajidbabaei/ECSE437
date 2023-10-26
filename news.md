@@ -78,7 +78,7 @@ In future labs, we will have different concerns but you should take the same ste
 
 ### Topic 7 is taken!
 
-[Topic#7](presentations/requesting-time-off-2/topic-7.md) is taken by Marie Nashed!&#x20;
+[Topic#7](presentations/requesting-time-off-2/topic-7.md) is taken by Marie Nashed! -> _assigned to Hadi Ghaddar and Omar Marwan_&#x20;
 
 ***
 
