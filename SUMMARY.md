@@ -57,6 +57,7 @@
 * [🙏 Lecture#10: DOK 1](slides/requesting-time-off-5-3.md)
 * [🙏 Lecture#11: DOK 2](slides/requesting-time-off-5-4.md)
 * [🙏 Lecture#12: DOK 3](slides/requesting-time-off-5-4-1.md)
+* [🙏 Lecture#13: DOK 4](slides/requesting-time-off-5-4-2.md)
 
 ## \[draft] Lecture Notes
 
