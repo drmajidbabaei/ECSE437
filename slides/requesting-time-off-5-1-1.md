@@ -12,89 +12,89 @@ The recording can be found [here](https://mcgill-my.sharepoint.com/:v:/g/persona
 
 {% file src="../.gitbook/assets/Lecture8-CodeReview2 (1).pdf" %}
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (1).png>)
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (8) (1).png>)
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (9) (1).png>)
 
-![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (10) (1).png>)
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (11) (1).png>)
 
-![](<../.gitbook/assets/image (12).png>)
+![](<../.gitbook/assets/image (12) (1).png>)
 
-![](<../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image (13) (1).png>)
 
-![](<../.gitbook/assets/image (14).png>)
+![](<../.gitbook/assets/image (14) (1).png>)
 
-![](<../.gitbook/assets/image (15).png>)
+![](<../.gitbook/assets/image (15) (1).png>)
 
-![](<../.gitbook/assets/image (16).png>)
+![](<../.gitbook/assets/image (16) (1).png>)
 
-![](<../.gitbook/assets/image (17).png>)
+![](<../.gitbook/assets/image (17) (1).png>)
 
-![](<../.gitbook/assets/image (18).png>)
+![](<../.gitbook/assets/image (18) (1).png>)
 
-![](<../.gitbook/assets/image (19).png>)
+![](<../.gitbook/assets/image (19) (1).png>)
 
-![](<../.gitbook/assets/image (20).png>)
+![](<../.gitbook/assets/image (20) (1).png>)
 
-![](<../.gitbook/assets/image (21).png>)
+![](<../.gitbook/assets/image (21) (1).png>)
 
-![](<../.gitbook/assets/image (22).png>)
+![](<../.gitbook/assets/image (22) (1).png>)
 
-![](<../.gitbook/assets/image (23).png>)
+![](<../.gitbook/assets/image (23) (1).png>)
 
-![](<../.gitbook/assets/image (24).png>)
+![](<../.gitbook/assets/image (24) (1).png>)
 
-![](<../.gitbook/assets/image (25).png>)
+![](<../.gitbook/assets/image (25) (1).png>)
 
-![](<../.gitbook/assets/image (26).png>)
+![](<../.gitbook/assets/image (26) (1).png>)
 
-![](<../.gitbook/assets/image (27).png>)
+![](<../.gitbook/assets/image (27) (1).png>)
 
-![](<../.gitbook/assets/image (28).png>)
+![](<../.gitbook/assets/image (28) (1).png>)
 
-![](<../.gitbook/assets/image (29).png>)
+![](<../.gitbook/assets/image (29) (1).png>)
 
-![](<../.gitbook/assets/image (30).png>)
+![](<../.gitbook/assets/image (30) (1).png>)
 
-![](<../.gitbook/assets/image (31).png>)
+![](<../.gitbook/assets/image (31) (1).png>)
 
-![](<../.gitbook/assets/image (32).png>)
+![](<../.gitbook/assets/image (32) (1).png>)
 
-![](<../.gitbook/assets/image (33).png>)
+![](<../.gitbook/assets/image (33) (1).png>)
 
-![](<../.gitbook/assets/image (34).png>)
+![](<../.gitbook/assets/image (34) (1).png>)
 
-![](<../.gitbook/assets/image (35).png>)
+![](<../.gitbook/assets/image (35) (1).png>)
 
-![](<../.gitbook/assets/image (36).png>)
+![](<../.gitbook/assets/image (36) (1).png>)
 
-![](<../.gitbook/assets/image (37).png>)
+![](<../.gitbook/assets/image (37) (1).png>)
 
-![](<../.gitbook/assets/image (38).png>)
+![](<../.gitbook/assets/image (38) (1).png>)
 
-![](<../.gitbook/assets/image (39).png>)
+![](<../.gitbook/assets/image (39) (1).png>)
 
-![](<../.gitbook/assets/image (40).png>)
+![](<../.gitbook/assets/image (40) (1).png>)
 
-![](<../.gitbook/assets/image (42).png>)
+![](<../.gitbook/assets/image (42) (1).png>)
 
-![](<../.gitbook/assets/image (43).png>)
+![](<../.gitbook/assets/image (43) (1).png>)
 
-![](<../.gitbook/assets/image (44).png>)
+![](<../.gitbook/assets/image (44) (1).png>)
 
-![](<../.gitbook/assets/image (45).png>)
+![](<../.gitbook/assets/image (45) (1).png>)
 
-![](<../.gitbook/assets/image (46).png>)
+![](<../.gitbook/assets/image (46) (1).png>)
 
-![](<../.gitbook/assets/image (47).png>)
+![](<../.gitbook/assets/image (47) (1).png>)
 
-![](<../.gitbook/assets/image (48).png>)
+![](<../.gitbook/assets/image (48) (1).png>)
 
 ![](<../.gitbook/assets/image (49).png>)
 
