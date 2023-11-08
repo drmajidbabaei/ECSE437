@@ -5,7 +5,7 @@ description: What You Need to Know!
 # 🙏 Lecture#15: CICD 1
 
 {% hint style="info" %}
-The recording can be found here!
+The recording can be found [here](https://mcgill-my.sharepoint.com/:v:/g/personal/majid\_babaei\_mcgill\_ca/EZ7TKEiZ0xVDsiTlh2VUB7sB3ROrHDiSUeC51QQatYLGtw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ\&e=DhKMNs)!
 
 (_only available for students at McGill University, others can get access upon my premission_)
 {% endhint %}
