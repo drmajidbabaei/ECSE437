@@ -42,7 +42,7 @@ In future labs, we will have different concerns but you should take the same ste
 
 ### Topic 10 is taken!
 
-[Topic#10](presentations/requesting-time-off-3/topic-10.md) is taken by Abraham Somech! We are very looking forward to your presentation on the last day of this course! -> _Liam Serour added to the team._
+[Topic#10](presentations/requesting-time-off-3/topic-10.md) is taken by Abraham Somech! We are very looking forward to your presentation on the last day of this course! -> _Liam Serour and Samuel Vasserman were added to the team._&#x20;
 
 ***
 
