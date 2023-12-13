@@ -147,7 +147,7 @@ In this class, you are supposed to work on a project called team-portfolio in wh
 
 <summary><span data-gb-custom-inline data-tag="emoji" data-code="1f389">🎉</span> Final Project</summary>
 
-### Best Final Projects:
+### Best Teams:
 
 Thanks for all you have done in this course and providing beautiful protfolio for your team during the lab assimgnets and the final project.
 
