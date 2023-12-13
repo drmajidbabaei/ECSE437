@@ -2,7 +2,7 @@
 description: What You Need to Know!
 ---
 
-# 🙏 Copy of Lecture#15: CICD 1
+# 🙏 Lecture#15: CICD 2
 
 {% hint style="warning" %}
 There is no recordings for this session!

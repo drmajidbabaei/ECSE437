@@ -143,3 +143,45 @@ In this class, you are supposed to work on a project called team-portfolio in wh
 
 </details>
 
+<details>
+
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="1f389">🎉</span> Final Project</summary>
+
+### Best Final Projects:
+
+Thanks for all you have done in this course and providing beautiful protfolio for your team during the lab assimgnets and the final project.
+
+Among all the projects that I have reviewed the following teams have shown the best performance in terms of the clarify of the presentation, providing supplementary material and the end result:
+
+1. Team 7: Sarah Youinou and Samer Sawan&#x20;
+2. Team 4: Afnan Waheed Ahmed, Sia Ham, and Nick Yoo&#x20;
+3. Team 20: Tara Ginsberg, Liam Serour, and Samuel Vasserman&#x20;
+4. Team 22: Vivek Kandathil, Richard Rassokhine, and Alexa Vasilakos&#x20;
+5. Team 24: Joey Liu Liong Wah, Qinghan Zhang, and Eric Zhang&#x20;
+
+**They will recieve 5 bonus points for their significant contribution in the final project.**
+
+
+
+***
+
+### Final project deliverables:
+
+For the final project, each team needs to put all the steps they have taken in lab assignments and create a complete DevOps workflow for their team portfolio project. Each team should provide the following output:
+
+* A link to your deployed project using the webApp component in the Azure DevOps environment.&#x20;
+* Complete the Team Portfolio - Final Project Template.&#x20;
+* Create a 20-minute video presentation of your project in which everyone explains what they did in the project and how the project was managed using DevOps methodology (you can upload the video to your OneDrive account and share it with me)
+
+\
+**Note 1**: You don't need to create a new project in your Azure DevOps profile. You can use the existing one.
+
+**Note 2**: The deadline to submit your package is December 4th (11:59 pm)
+
+**Note 3**: Make sure you share your video presentation with me otherwise I will not be able to view your file.
+
+**Note4**: To complete Team Portfolio - Final Project Template: in the first part "OUR CONTRIBUTION" you should mention the main contribution you have made to each lab; in the second part "CHALLENGE#1, #2, #3" you only need to mention 3 main challenges you have faced throughout this project; in the third part "CONCEPTUAL DESIGN" you should draw your build and release pipeline you considered in your DevOps system; in the final part "WHAT ARE MISSING" you should talk about the missing part of the project, e.g., testing, and explain how this step can be integrated into your project.
+
+***
+
+</details>

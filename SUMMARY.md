@@ -60,7 +60,7 @@
 * [🙏 Lecture#13: DOK 4](slides/requesting-time-off-5-4-2.md)
 * [🙏 Lecture#14: DOK 5](slides/requesting-time-off-5-4-3.md)
 * [🙏 Lecture#15: CICD 1](slides/requesting-time-off-5-4-4.md)
-* [🙏 Copy of Lecture#15: CICD 1](slides/requesting-time-off-5-4-4-1.md)
+* [🙏 Lecture#15: CICD 2](slides/requesting-time-off-5-4-4-1.md)
 
 ## \[draft] Lecture Notes
 
