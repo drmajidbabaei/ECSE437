@@ -1,2 +1,0 @@
-# Neither bigger nor smarter
-

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome to ECSE 437!](README.md)
+* [👋 Welcome to ECSE 437 (Fall 2023)!](README.md)
 * [📰 News](news.md)
 
 ## About us
@@ -21,9 +21,9 @@
 
 * [🌴 Lab1 - Planning](labs/lab1-planning.md)
 * [🐊 Lab2 - Git](labs/lab2-git.md)
-* [⚒ Lab3 - LCL](labs/lab3-lcl.md)
+* [⚒️ Lab3 - LCL](labs/lab3-lcl.md)
 * [🎁 Lab4 - Docker](labs/lab4-docker.md)
-* [🗞 Lab5 - Pipeline](labs/lab5-pipeline.md)
+* [🗞️ Lab5 - Pipeline](labs/lab5-pipeline.md)
 
 ## Presentations
 
@@ -62,24 +62,6 @@
 * [🙏 Lecture#15: CICD 1](slides/requesting-time-off-5-4-4.md)
 * [🙏 Lecture#16: CICD 2](slides/requesting-time-off-5-4-4-1.md)
 
-## \[draft] Lecture Notes
-
-* [🎙 Introduction](draft-lecture-notes/requesting-time-off/README.md)
-  * [Course overview](draft-lecture-notes/requesting-time-off/course-overview.md)
-  * [Who am I](draft-lecture-notes/requesting-time-off/who-am-i.md)
-  * [Range matters!](draft-lecture-notes/requesting-time-off/range-matters/README.md)
-    * [Abstraction](draft-lecture-notes/requesting-time-off/range-matters/abstraction.md)
-    * [Analogy](draft-lecture-notes/requesting-time-off/range-matters/analogy.md)
-  * [Neither bigger nor smarter](draft-lecture-notes/requesting-time-off/neither-bigger-nor-smarter.md)
-  * [Automation](draft-lecture-notes/requesting-time-off/automation.md)
-  * [Sustainability](draft-lecture-notes/requesting-time-off/sustainability.md)
-  * [Diversity, Equity, and Inclusion](draft-lecture-notes/requesting-time-off/diversity-equity-and-inclusion.md)
-  * [DevOps Culture and Practices](draft-lecture-notes/requesting-time-off/devops-culture-and-practices.md)
-* [⚽ Version Control Systems](draft-lecture-notes/requesting-time-off-1.md)
-* [⚽ Code Review](draft-lecture-notes/requesting-time-off-2.md)
-* [⚽ Containerization](draft-lecture-notes/requesting-time-off-3.md)
-* [⚽ CI/CD Pipeline](draft-lecture-notes/requesting-time-off-4.md)
-
 ## Policies
 
-* [⚠ Plagiarism and Cheating](policies/requesting-time-off.md)
+* [⚠️ Plagiarism and Cheating](policies/requesting-time-off.md)

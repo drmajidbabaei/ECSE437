@@ -18,7 +18,16 @@ layout:
     visible: true
 ---
 
-# 👋 Welcome to ECSE 437!
+# 👋 Welcome to ECSE 437 (Fall 2023)!
+
+{% hint style="danger" %}
+**Important Notice: Outdated Course Material**
+
+\
+Please be aware that the course materials you are accessing were designed for students who took this course in Fall 2023 with [Prof. Majid Babaei ](https://www.mcgill.ca/continuingstudies/majid-babaei)at McGill University.&#x20;
+
+If you have any questions or concerns about the relevance of the material, please don't hesitate to reach out to your current instructor or the course coordinator.
+{% endhint %}
 
 {% hint style="info" %}
 **About this page:** This page is designed as supplementary material to ECSE 437: Software Delivery offered by McGill University in Fall 2023. Get access to the official content in myCources at [ECSE-437-001](https://mycourses2.mcgill.ca/d2l/home/659807).
